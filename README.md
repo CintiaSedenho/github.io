@@ -1,2 +1,22 @@
-# github.io
-Pagina Pessoal
+# Olá, meu nome é Cintia 👋
+
+Sou analista de sistemas e apaixonado por tecnologia, com conhecimento em algumas linguagens e ferramentas. Aqui estão alguns detalhes sobre mim:
+
+## 🚀 Tecnologias que eu conheço:
+- Excel Avançado (VBA e Macros)
+- PowerBi
+- Python
+- JavaScript
+- HTML/CSS
+- Node.js
+- Git/GitHub
+- Postman
+
+## 📚 Projetos e contribuições:
+- [CintiaSedenho/dio-lab-open-source] - Projeto Open Source no GitHub" da Digital Innovation One.
+- [CintiaSedenho/javascript-developer-m1] - Módulo I da Trilha "JavaScript Developer" da Digital Innovation One.
+  
+## 📫 Entre em contato comigo:
+- Email: cintiasedenho@hotmail.com
+- LinkedIn: [https://www.linkedin.com/in/cintia-sedenho-dias-3a544734/]
+- WhatsApp: (55 13) 99657-2928
