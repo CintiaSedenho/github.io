@@ -19,4 +19,4 @@ Sou analista de sistemas e apaixonado por tecnologia, com conhecimento em alguma
 ## 📫 Entre em contato comigo:
 - Email: cintiasedenho@hotmail.com
 - LinkedIn: [https://www.linkedin.com/in/cintia-sedenho-dias-3a544734/]
-- WhatsApp: [wa.me/5513996572928]
+- WhatsApp: [wa.me/+5513996572928]
